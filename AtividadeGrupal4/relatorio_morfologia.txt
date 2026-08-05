@@ -1,0 +1,8 @@
+Imagem: mricerebro2.jpg
+Data: 05-Nov-2025 15:00:59
+
+Área total: 4999 pixels
+Número de estruturas: 42
+Área média: 110.0 pixels
+Maior área: 1843 pixels
+Diferença de área: -380 pixels
